@@ -1,0 +1,8 @@
+[
+ {
+"resource":"/code/verificationCode/test",
+"grade":2,
+"count":1,
+"timeWindow":5
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+"resource":"/user/user/register",
+"limitApp":"default",
+"grade":1,
+"count":1,
+"strategy":0,
+"controlBehavior":0,
+"clusterMode":false
+ },
+  {
+"resource":"/code/verificationCode/test",
+"limitApp":"default",
+"grade":1,
+"count":1,
+"strategy":0,
+"controlBehavior":0,
+"clusterMode":false
+ }
+]

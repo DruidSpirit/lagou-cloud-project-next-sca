@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 19 13:14:16 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0180-403e-24b5-000013b230c0 
+on database directory /Users/wangyang/it/workspace/study-project/lagou/阶段三模块五/lagou-cloud-project-next/nacos-serve/nacos/data/derby-data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@29774679 
+Loaded from jar:file:/Users/wangyang/it/workspace/study-project/lagou/阶段三模块五/lagou-cloud-project-next/nacos-serve/nacos/target/nacos-server.jar!/BOOT-INF/lib/derby-10.10.1.1.jar!/
+java.vendor=Azul Systems, Inc.
+java.runtime.version=16.0.1+9
+user.dir=/Users/wangyang/it/workspace/study-project/lagou/阶段三模块五/lagou-cloud-project-next/nacos-serve/nacos/bin
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

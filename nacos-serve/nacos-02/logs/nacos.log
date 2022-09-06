@@ -1,0 +1,151 @@
+2022-04-21 00:04:28,703 WARN clearConfigHistory start
+
+2022-04-21 00:04:29,574 INFO [capacityManagement] start correct usage
+
+2022-04-21 00:04:29,599 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 00:14:28,731 WARN clearConfigHistory start
+
+2022-04-21 00:14:29,604 INFO [capacityManagement] start correct usage
+
+2022-04-21 00:14:29,628 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 00:24:28,751 WARN clearConfigHistory start
+
+2022-04-21 00:24:29,636 INFO [capacityManagement] start correct usage
+
+2022-04-21 00:24:29,663 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 08:35:14,913 WARN clearConfigHistory start
+
+2022-04-21 08:35:15,818 INFO [capacityManagement] start correct usage
+
+2022-04-21 08:35:15,848 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 08:45:14,919 WARN clearConfigHistory start
+
+2022-04-21 08:45:15,840 INFO [capacityManagement] start correct usage
+
+2022-04-21 08:45:15,863 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 08:55:14,923 WARN clearConfigHistory start
+
+2022-04-21 08:55:15,860 INFO [capacityManagement] start correct usage
+
+2022-04-21 08:55:15,881 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 09:05:14,926 WARN clearConfigHistory start
+
+2022-04-21 09:05:15,874 INFO [capacityManagement] start correct usage
+
+2022-04-21 09:05:15,896 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 09:15:14,937 WARN clearConfigHistory start
+
+2022-04-21 09:15:15,889 INFO [capacityManagement] start correct usage
+
+2022-04-21 09:15:15,901 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 09:25:14,947 WARN clearConfigHistory start
+
+2022-04-21 09:25:15,896 INFO [capacityManagement] start correct usage
+
+2022-04-21 09:25:15,920 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 09:35:14,956 WARN clearConfigHistory start
+
+2022-04-21 09:35:15,916 INFO [capacityManagement] start correct usage
+
+2022-04-21 09:35:15,940 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 09:45:14,974 WARN clearConfigHistory start
+
+2022-04-21 09:45:15,937 INFO [capacityManagement] start correct usage
+
+2022-04-21 09:45:15,959 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 10:29:28,595 WARN clearConfigHistory start
+
+2022-04-21 10:29:29,571 INFO [capacityManagement] start correct usage
+
+2022-04-21 10:29:29,592 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-04-21 10:39:28,596 WARN clearConfigHistory start
+
+2022-04-21 10:39:29,582 INFO [capacityManagement] start correct usage
+
+2022-04-21 10:39:32,610 ERROR clearConfigHistory error
+
+org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:612)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:669)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:700)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:712)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:783)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:809)
+	at com.alibaba.nacos.config.server.service.PersistService.findConfigHistoryCountByTime(PersistService.java:952)
+	at com.alibaba.nacos.config.server.service.PersistService$$FastClassBySpringCGLIB$$21ae4232.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.alibaba.nacos.config.server.service.PersistService$$EnhancerBySpringCGLIB$$64cba309.findConfigHistoryCountByTime(<generated>)
+	at com.alibaba.nacos.config.server.service.dump.DumpService.lambda$init$2(DumpService.java:91)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: java.sql.SQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:905)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:830)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at org.apache.commons.dbcp.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:38)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1188)
+	at org.apache.commons.dbcp.PoolingDataSource.getConnection(PoolingDataSource.java:106)
+	at org.apache.commons.dbcp.BasicDataSource.getConnection(BasicDataSource.java:1044)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	... 22 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor105.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:849)
+	... 34 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:669)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65)
+	... 36 common frames omitted
+2022-04-21 10:44:24,498 INFO Shutting down ExecutorService 'taskScheduler'
+
+2022-04-21 10:44:24,505 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+

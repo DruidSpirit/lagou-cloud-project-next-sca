@@ -1,0 +1,29 @@
+#针对的被调用方微服务名称,不加就是全局生效
+#lagou-service-resume:
+#  ribbon:
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule #负载策略调整
+# springboot中暴露健康检查等断点接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  # 暴露健康接口的细节
+  endpoint:
+    health:
+      show-details: always         
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8080 # sentinel dashboard/console 地址
+        port: 8719   #  sentinel会在该端口启动http server，那么这样的话，控制台定义的一些限流等规则才能发送传递过来，
+        #如果8719端口被占用，那么会依次+1 
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:63306/lagou-spring-cloud?useUnicode=true&characterEncoding=utf8
+    username: druiduser
+    password: Wy@8180369
+  jpa:
+    database: MySQL
+    show-sql: true       

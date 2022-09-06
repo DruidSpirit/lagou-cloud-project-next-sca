@@ -1,0 +1,582 @@
+2022-04-19 13:14:16,004 INFO notifyConnectTimeout:200
+
+2022-04-19 13:14:16,005 INFO notifySocketTimeout:8000
+
+2022-04-19 13:14:16,005 INFO isHealthCheck:true
+
+2022-04-19 13:14:16,005 INFO maxHealthCheckFailCount:12
+
+2022-04-19 13:14:16,005 INFO maxContent:10485760
+
+2022-04-19 13:14:17,163 INFO ServerListService address-server port:8080
+
+2022-04-19 13:14:17,163 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 13:14:17,164 WARN [serverlist] updated to [192.168.2.246:8848]
+
+2022-04-19 13:14:17,200 WARN DumpService start
+
+2022-04-19 13:14:17,201 INFO start clear all config-info.
+
+2022-04-19 13:14:17,204 WARN clear all config-info failed.
+
+2022-04-19 13:14:17,205 WARN clear all config-info-tenant failed.
+
+2022-04-19 13:14:17,255 INFO start clear all config-info-beta.
+
+2022-04-19 13:14:17,255 WARN clear all config-info-beta failed.
+
+2022-04-19 13:14:17,255 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 13:14:17,261 INFO start clear all config-info-tag.
+
+2022-04-19 13:14:17,261 WARN clear all config-info-tag failed.
+
+2022-04-19 13:14:17,261 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 13:16:09,842 INFO notifyConnectTimeout:200
+
+2022-04-19 13:16:09,843 INFO notifySocketTimeout:8000
+
+2022-04-19 13:16:09,843 INFO isHealthCheck:true
+
+2022-04-19 13:16:09,843 INFO maxHealthCheckFailCount:12
+
+2022-04-19 13:16:09,843 INFO maxContent:10485760
+
+2022-04-19 13:16:09,843 INFO spring.datasource.platform:mysql
+
+2022-04-19 13:16:18,593 INFO ServerListService address-server port:8080
+
+2022-04-19 13:16:18,594 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 13:16:18,594 WARN [serverlist] updated to [192.168.2.246:8848]
+
+2022-04-19 13:16:18,626 WARN DumpService start
+
+2022-04-19 13:16:18,627 INFO start clear all config-info.
+
+2022-04-19 13:16:18,630 WARN clear all config-info failed.
+
+2022-04-19 13:16:18,630 WARN clear all config-info-tenant failed.
+
+2022-04-19 13:24:43,078 INFO notifyConnectTimeout:200
+
+2022-04-19 13:24:43,079 INFO notifySocketTimeout:8000
+
+2022-04-19 13:24:43,079 INFO isHealthCheck:true
+
+2022-04-19 13:24:43,079 INFO maxHealthCheckFailCount:12
+
+2022-04-19 13:24:43,079 INFO maxContent:10485760
+
+2022-04-19 13:24:43,079 INFO spring.datasource.platform:mysql
+
+2022-04-19 13:24:51,900 INFO ServerListService address-server port:8080
+
+2022-04-19 13:24:51,901 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 13:24:51,901 WARN [serverlist] updated to [192.168.2.246:8848]
+
+2022-04-19 13:24:51,936 WARN DumpService start
+
+2022-04-19 13:24:51,937 INFO start clear all config-info.
+
+2022-04-19 13:24:51,941 WARN clear all config-info failed.
+
+2022-04-19 13:24:51,941 WARN clear all config-info-tenant failed.
+
+2022-04-19 13:46:18,223 INFO notifyConnectTimeout:200
+
+2022-04-19 13:46:18,224 INFO notifySocketTimeout:8000
+
+2022-04-19 13:46:18,224 INFO isHealthCheck:true
+
+2022-04-19 13:46:18,224 INFO maxHealthCheckFailCount:12
+
+2022-04-19 13:46:18,224 INFO maxContent:10485760
+
+2022-04-19 13:46:18,225 INFO spring.datasource.platform:mysql
+
+2022-04-19 13:46:19,279 INFO ServerListService address-server port:8080
+
+2022-04-19 13:46:19,280 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 13:46:19,280 WARN [serverlist] updated to [192.168.2.246:8848]
+
+2022-04-19 13:46:19,316 WARN DumpService start
+
+2022-04-19 13:46:19,317 INFO start clear all config-info.
+
+2022-04-19 13:46:19,320 WARN clear all config-info failed.
+
+2022-04-19 13:46:19,320 WARN clear all config-info-tenant failed.
+
+2022-04-19 13:46:19,353 INFO start clear all config-info-beta.
+
+2022-04-19 13:46:19,353 WARN clear all config-info-beta failed.
+
+2022-04-19 13:46:19,353 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 13:46:19,373 INFO start clear all config-info-tag.
+
+2022-04-19 13:46:19,373 WARN clear all config-info-tag failed.
+
+2022-04-19 13:46:19,373 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 14:00:37,697 INFO notifyConnectTimeout:200
+
+2022-04-19 14:00:37,698 INFO notifySocketTimeout:8000
+
+2022-04-19 14:00:37,698 INFO isHealthCheck:true
+
+2022-04-19 14:00:37,698 INFO maxHealthCheckFailCount:12
+
+2022-04-19 14:00:37,698 INFO maxContent:10485760
+
+2022-04-19 14:00:37,698 INFO spring.datasource.platform:mysql
+
+2022-04-19 14:00:38,639 INFO ServerListService address-server port:8080
+
+2022-04-19 14:00:38,639 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 14:00:38,639 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:00:38,640 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:00:38,673 WARN DumpService start
+
+2022-04-19 14:00:38,674 INFO start clear all config-info.
+
+2022-04-19 14:00:38,678 WARN clear all config-info failed.
+
+2022-04-19 14:00:38,678 WARN clear all config-info-tenant failed.
+
+2022-04-19 14:00:38,710 INFO start clear all config-info-beta.
+
+2022-04-19 14:00:38,710 WARN clear all config-info-beta failed.
+
+2022-04-19 14:00:38,710 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 14:00:38,730 INFO start clear all config-info-tag.
+
+2022-04-19 14:00:38,730 WARN clear all config-info-tag failed.
+
+2022-04-19 14:00:38,730 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 14:00:38,755 WARN initialDelay:320
+
+2022-04-19 14:00:43,643 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:00:48,648 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:00:53,651 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:00:58,652 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:03,658 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:08,660 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:13,663 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:18,664 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:23,670 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:28,672 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:33,676 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:38,678 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:39,425 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:13
+
+2022-04-19 14:01:43,681 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:44,432 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:14
+
+2022-04-19 14:01:48,682 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:49,435 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:15
+
+2022-04-19 14:01:53,689 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:54,437 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:16
+
+2022-04-19 14:01:58,691 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:01:59,442 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:17
+
+2022-04-19 14:02:03,692 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:04,444 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:18
+
+2022-04-19 14:02:08,696 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:09,449 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:19
+
+2022-04-19 14:02:13,702 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:14,452 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:20
+
+2022-04-19 14:02:18,708 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:19,459 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:21
+
+2022-04-19 14:02:23,712 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:24,468 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:22
+
+2022-04-19 14:02:28,714 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:29,471 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:23
+
+2022-04-19 14:02:33,720 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:34,477 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:24
+
+2022-04-19 14:02:38,726 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:39,483 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:25
+
+2022-04-19 14:02:43,727 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:44,489 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:26
+
+2022-04-19 14:02:48,729 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:49,496 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:27
+
+2022-04-19 14:02:53,733 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:54,502 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:28
+
+2022-04-19 14:02:58,739 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:02:59,507 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:29
+
+2022-04-19 14:03:03,745 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:04,511 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:30
+
+2022-04-19 14:03:08,751 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:09,516 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:31
+
+2022-04-19 14:03:13,753 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:14,523 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:32
+
+2022-04-19 14:03:18,754 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:19,528 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:33
+
+2022-04-19 14:03:23,761 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:24,530 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:34
+
+2022-04-19 14:03:28,767 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:29,536 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:35
+
+2022-04-19 14:03:33,768 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:34,540 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:36
+
+2022-04-19 14:03:38,774 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:39,547 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:37
+
+2022-04-19 14:03:43,779 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:44,552 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:38
+
+2022-04-19 14:03:48,784 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:49,552 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:39
+
+2022-04-19 14:03:53,787 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:54,554 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:40
+
+2022-04-19 14:03:58,787 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:03:59,560 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:41
+
+2022-04-19 14:04:03,789 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:04,564 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:42
+
+2022-04-19 14:04:08,792 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:09,570 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:43
+
+2022-04-19 14:04:13,794 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:14,571 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:44
+
+2022-04-19 14:04:18,800 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:19,573 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:45
+
+2022-04-19 14:04:23,804 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:24,578 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:46
+
+2022-04-19 14:04:28,810 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:29,584 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:47
+
+2022-04-19 14:04:33,816 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:34,590 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:48
+
+2022-04-19 14:04:38,822 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:39,596 ERROR unhealthIp:127.0.0.1:8850, unhealthCount:49
+
+2022-04-19 14:04:43,829 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:48,831 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:53,837 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:04:58,841 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:03,847 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:08,848 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:13,854 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:18,855 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:23,862 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:28,863 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:33,865 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:38,868 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:43,873 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:48,875 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:53,880 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:05:58,883 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:03,889 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:08,894 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:13,899 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:18,901 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:23,902 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:28,903 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:33,908 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:38,912 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:43,914 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:48,918 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:53,924 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:06:58,930 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:03,936 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:08,942 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:13,947 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:18,953 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:23,956 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:28,959 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:33,962 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:38,968 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:43,972 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:48,977 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:53,982 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:07:58,988 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:03,994 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:08,999 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:14,004 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:19,010 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:24,015 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:08:29,018 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850, 192.168.2.246:8849]
+
+2022-04-19 14:09:03,951 INFO notifyConnectTimeout:200
+
+2022-04-19 14:09:03,951 INFO notifySocketTimeout:8000
+
+2022-04-19 14:09:03,951 INFO isHealthCheck:true
+
+2022-04-19 14:09:03,951 INFO maxHealthCheckFailCount:12
+
+2022-04-19 14:09:03,951 INFO maxContent:10485760
+
+2022-04-19 14:09:03,951 INFO spring.datasource.platform:mysql
+
+2022-04-19 14:09:05,434 INFO ServerListService address-server port:8080
+
+2022-04-19 14:09:05,435 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 14:09:05,436 WARN [serverlist] updated to [127.0.0.1:8848, 127.0.0.1:8849, 127.0.0.1:8850]
+
+2022-04-19 14:09:05,499 WARN DumpService start
+
+2022-04-19 14:09:05,502 INFO start clear all config-info.
+
+2022-04-19 14:09:05,507 WARN clear all config-info failed.
+
+2022-04-19 14:09:05,507 WARN clear all config-info-tenant failed.
+
+2022-04-19 14:09:05,628 INFO start clear all config-info-beta.
+
+2022-04-19 14:09:05,628 WARN clear all config-info-beta failed.
+
+2022-04-19 14:09:05,628 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 14:09:05,654 INFO start clear all config-info-tag.
+
+2022-04-19 14:09:05,654 WARN clear all config-info-tag failed.
+
+2022-04-19 14:09:05,654 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 14:09:05,708 WARN initialDelay:227
+
+2022-04-19 14:18:14,302 INFO notifyConnectTimeout:200
+
+2022-04-19 14:18:14,302 INFO notifySocketTimeout:8000
+
+2022-04-19 14:18:14,302 INFO isHealthCheck:true
+
+2022-04-19 14:18:14,302 INFO maxHealthCheckFailCount:12
+
+2022-04-19 14:18:14,302 INFO maxContent:10485760
+
+2022-04-19 14:18:14,303 INFO spring.datasource.platform:mysql
+
+2022-04-19 14:18:15,493 INFO ServerListService address-server port:8080
+
+2022-04-19 14:18:15,493 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 14:18:15,494 WARN [serverlist] updated to [127.0.0.1:8849, 127.0.0.1:8850, 127.0.0.1:8851]
+
+2022-04-19 14:18:15,536 WARN DumpService start
+
+2022-04-19 14:18:15,538 INFO start clear all config-info.
+
+2022-04-19 14:18:15,542 WARN clear all config-info failed.
+
+2022-04-19 14:18:15,543 WARN clear all config-info-tenant failed.
+
+2022-04-19 14:18:15,573 INFO start clear all config-info-beta.
+
+2022-04-19 14:18:15,573 WARN clear all config-info-beta failed.
+
+2022-04-19 14:18:15,573 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 14:18:15,595 INFO start clear all config-info-tag.
+
+2022-04-19 14:18:15,595 WARN clear all config-info-tag failed.
+
+2022-04-19 14:18:15,595 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 14:18:15,636 WARN initialDelay:14
+
+2022-04-19 14:19:16,524 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:13
+
+2022-04-19 14:19:21,528 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:14
+
+2022-04-19 14:19:26,532 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:15
+
+2022-04-19 14:19:31,538 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:16
+
+2022-04-19 14:19:36,538 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:17
+
+2022-04-19 14:19:41,540 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:18
+
+2022-04-19 14:19:46,541 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:19
+
+2022-04-19 14:19:51,548 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:20
+
+2022-04-19 14:19:56,551 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:21
+
+2022-04-19 14:20:01,552 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:22
+
+2022-04-19 14:20:06,559 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:23
+
+2022-04-19 14:20:11,560 ERROR unhealthIp:127.0.0.1:8851, unhealthCount:24
+
+2022-04-19 14:20:19,654 INFO notifyConnectTimeout:200
+
+2022-04-19 14:20:19,655 INFO notifySocketTimeout:8000
+
+2022-04-19 14:20:19,655 INFO isHealthCheck:true
+
+2022-04-19 14:20:19,655 INFO maxHealthCheckFailCount:12
+
+2022-04-19 14:20:19,655 INFO maxContent:10485760
+
+2022-04-19 14:20:19,655 INFO spring.datasource.platform:mysql
+
+2022-04-19 14:20:20,808 INFO ServerListService address-server port:8080
+
+2022-04-19 14:20:20,808 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-04-19 14:20:20,808 WARN [serverlist] updated to [127.0.0.1:8849, 127.0.0.1:8850, 127.0.0.1:8851]
+
+2022-04-19 14:20:20,849 WARN DumpService start
+
+2022-04-19 14:20:20,851 INFO start clear all config-info.
+
+2022-04-19 14:20:20,855 WARN clear all config-info failed.
+
+2022-04-19 14:20:20,855 WARN clear all config-info-tenant failed.
+
+2022-04-19 14:20:20,885 INFO start clear all config-info-beta.
+
+2022-04-19 14:20:20,885 WARN clear all config-info-beta failed.
+
+2022-04-19 14:20:20,885 WARN clear all config-info-beta-tenant failed.
+
+2022-04-19 14:20:20,905 INFO start clear all config-info-tag.
+
+2022-04-19 14:20:20,905 WARN clear all config-info-tag failed.
+
+2022-04-19 14:20:20,905 WARN clear all config-info-tag-tenant failed.
+
+2022-04-19 14:20:20,946 WARN initialDelay:82
+
+2022-04-19 15:42:21,045 INFO [all-dump] 5 / 5
+
+2022-04-19 15:42:21,074 INFO [all-dump] 5 / 5
+
+2022-04-19 21:42:20,610 INFO [all-dump] 12 / 12
+
+2022-04-19 21:42:20,631 INFO [all-dump] 12 / 12
+

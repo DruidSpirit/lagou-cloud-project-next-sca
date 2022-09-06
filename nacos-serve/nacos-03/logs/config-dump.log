@@ -1,0 +1,48 @@
+2022-04-21 08:40:23,073 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-code.yaml+DEFAULT_GROUP, md5=62a446b507bb94369df9dead39fb589b, lastModifiedOld=1650445077589, lastModifiedNew=1650445078000
+
+2022-04-21 08:40:23,075 INFO [dump-all-ok] lagou-service-code.yaml+DEFAULT_GROUP, 1650445078000, length=862, md5=62a446b507bb94369df9dead39fb589b
+
+2022-04-21 08:40:23,075 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway.yaml+DEFAULT_GROUP, md5=5780c388de1fa7808af78f37d1df2d69, lastModifiedOld=1650366373847, lastModifiedNew=1650366374000
+
+2022-04-21 08:40:23,075 INFO [dump-all-ok] lagou-cloud-gateway.yaml+DEFAULT_GROUP, 1650366374000, length=1778, md5=5780c388de1fa7808af78f37d1df2d69
+
+2022-04-21 08:40:23,075 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-email.yaml+DEFAULT_GROUP, md5=594f91b68d0515e1751b64d762e95092, lastModifiedOld=1650440854994, lastModifiedNew=1650440855000
+
+2022-04-21 08:40:23,075 INFO [dump-all-ok] lagou-service-email.yaml+DEFAULT_GROUP, 1650440855000, length=1162, md5=594f91b68d0515e1751b64d762e95092
+
+2022-04-21 08:40:23,076 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-user.yaml+DEFAULT_GROUP, md5=5402466c38c8225938bf72903eb76311, lastModifiedOld=1650441614127, lastModifiedNew=1650441614000
+
+2022-04-21 08:40:23,076 INFO [dump-all-ok] lagou-service-user.yaml+DEFAULT_GROUP, 1650441614000, length=818, md5=5402466c38c8225938bf72903eb76311
+
+2022-04-21 08:40:23,076 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway-flow-rules+DEFAULT_GROUP, md5=ec565f5b6110b83fab856a65a07e1300, lastModifiedOld=1650441534518, lastModifiedNew=1650441535000
+
+2022-04-21 08:40:23,076 INFO [dump-all-ok] lagou-cloud-gateway-flow-rules+DEFAULT_GROUP, 1650441535000, length=310, md5=ec565f5b6110b83fab856a65a07e1300
+
+2022-04-21 08:40:23,076 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway-degrade-rules+DEFAULT_GROUP, md5=49b1402a1cfa28532ff54296d42875d0, lastModifiedOld=1650437221423, lastModifiedNew=1650437221000
+
+2022-04-21 08:40:23,076 INFO [dump-all-ok] lagou-cloud-gateway-degrade-rules+DEFAULT_GROUP, 1650437221000, length=88, md5=49b1402a1cfa28532ff54296d42875d0
+
+2022-04-21 08:40:23,091 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-code.yaml+DEFAULT_GROUP, md5=62a446b507bb94369df9dead39fb589b, lastModifiedOld=1650445077589, lastModifiedNew=1650445078000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-service-code.yaml+DEFAULT_GROUP, 1650445078000, length=862, md5=62a446b507bb94369df9dead39fb589b
+
+2022-04-21 08:40:23,092 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway.yaml+DEFAULT_GROUP, md5=5780c388de1fa7808af78f37d1df2d69, lastModifiedOld=1650366373847, lastModifiedNew=1650366374000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-cloud-gateway.yaml+DEFAULT_GROUP, 1650366374000, length=1778, md5=5780c388de1fa7808af78f37d1df2d69
+
+2022-04-21 08:40:23,092 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-email.yaml+DEFAULT_GROUP, md5=594f91b68d0515e1751b64d762e95092, lastModifiedOld=1650440854994, lastModifiedNew=1650440855000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-service-email.yaml+DEFAULT_GROUP, 1650440855000, length=1162, md5=594f91b68d0515e1751b64d762e95092
+
+2022-04-21 08:40:23,092 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-service-user.yaml+DEFAULT_GROUP, md5=5402466c38c8225938bf72903eb76311, lastModifiedOld=1650441614127, lastModifiedNew=1650441614000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-service-user.yaml+DEFAULT_GROUP, 1650441614000, length=818, md5=5402466c38c8225938bf72903eb76311
+
+2022-04-21 08:40:23,092 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway-flow-rules+DEFAULT_GROUP, md5=ec565f5b6110b83fab856a65a07e1300, lastModifiedOld=1650441534518, lastModifiedNew=1650441535000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-cloud-gateway-flow-rules+DEFAULT_GROUP, 1650441535000, length=310, md5=ec565f5b6110b83fab856a65a07e1300
+
+2022-04-21 08:40:23,092 WARN [dump-ignore] ignore to save cache file. groupKey=lagou-cloud-gateway-degrade-rules+DEFAULT_GROUP, md5=49b1402a1cfa28532ff54296d42875d0, lastModifiedOld=1650437221423, lastModifiedNew=1650437221000
+
+2022-04-21 08:40:23,092 INFO [dump-all-ok] lagou-cloud-gateway-degrade-rules+DEFAULT_GROUP, 1650437221000, length=88, md5=49b1402a1cfa28532ff54296d42875d0
+

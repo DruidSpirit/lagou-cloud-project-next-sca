@@ -1,0 +1,21 @@
+server:
+  port: 8303
+spring:
+  application:
+    name: lagou-service-user
+  cloud:
+    nacos:
+      discovery:
+        # 集群中各节点信息都配置在这里（域名-VIP-绑定映射到各个实例的地址信息）
+        server-addr: 127.0.0.1:8849,127.0.0.1:8850,127.0.0.1:8851
+      # nacos config 配置
+      config:
+        server-addr: 127.0.0.1:8849,127.0.0.1:8850,127.0.0.1:8851
+        # 锁定server端的配置文件（读取它的配置项）
+        group: DEFAULT_GROUP  # 默认分组就是DEFAULT_GROUP，如果使用默认分组可以不配置
+        file-extension: yaml   #默认properties
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8080 # sentinel dashboard/console 地址
+        port: 8721   #  sentinel会在该端口启动http server，那么这样的话，控制台定义的一些限流等规则才能发送传递过来，
+        #如果8719端口被占用，那么会依次+1
